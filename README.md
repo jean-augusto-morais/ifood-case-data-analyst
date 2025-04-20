@@ -11,10 +11,11 @@ Despite solid financial performance over the past three years, future profit gro
 
 ![pairplot](images/grafico1.png)
 
-"**Data Science Project. Based on the selection process for the Data Analyst position at iFood, available [in this repository](https://github.com/ifood/ifood-data-business-analyst-test).**.\n",
-    "\n",
-    "Complete case description [here](case/README.md).\n",
-    "\n",
+**📁 Data Science Project**  
+Based on the selection process for the **Data Analyst** position at **iFood**, available in [this repository](https://github.com/ifood/ifood-data-business-analyst-test).
+
+📄 Complete case description available [here](case/README.md).
+
 
  
 ## **Detailed Objectives:**
