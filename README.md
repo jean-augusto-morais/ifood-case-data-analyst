@@ -9,7 +9,7 @@ Sales channels include **physical stores**, **catalogs**, and the **company’s 
 
 Despite solid financial performance over the past three years, future profit growth projections are not encouraging. To address this, the company is exploring several strategic initiatives — one of which focuses on **improving the performance of marketing campaigns**.
 
-![pairplot](images/grafico1.png)
+![pairplot](Images/grafico1.png)
 
 **📁 Data Science Project**  
 Based on the selection process for the **Data Analyst** position at **iFood**, available in [this repository](https://github.com/ifood/ifood-data-business-analyst-test).
@@ -48,7 +48,7 @@ A detailed description of the dataset used is available [here](data/README.md).
 
 With a pipeline including preprocessing, PCA, and K-Means, the dataset was segmented into 3 clusters:
 
-![clusters](images/pca_clusters.png)
+![clusters](Images/grafico2.png)
 
 ### **Cluster Analysis:**
 
@@ -83,7 +83,7 @@ Next, three classification models were trained to predict whether a customer wou
 
 A **DummyClassifier** was used as a baseline. The models were evaluated based on 6 metrics:
 
-![comparing_models](images/comparing_models.png)
+![comparing_models](Images/grafico3.png)
 
 Based on this comparison, the **Logistic Regression** model was chosen for hyperparameter optimization.
 
