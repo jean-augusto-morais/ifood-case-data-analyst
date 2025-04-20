@@ -1,10 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "17e28f37-a5ee-4716-9653-702ffba91082",
-   "metadata": {},
-   "source": [
+
     "[![author](https://img.shields.io/badge/Author-jean&nbsp;augusto-red.svg)](https://www.linkedin.com/in/jean-augusto-morais/)\n",
     "[![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)\n",
     "\n",
@@ -17,10 +11,9 @@
 
 "**Data Science Project. Based on the selection process for the Data Analyst position at iFood, available [in this repository](https://github.com/ifood/ifood-data-business-analyst-test).**.\n",
     "\n",
-    "Descrição completa do case [aqui](case/README.md).\n",
+    "Complete case description [here](case/README.md).\n",
     "\n",
-    "<p align=\"center\"> \n",
-    "  <a href=\"https://www.linkedin.com/in/flsbustamante\" target=\"_blank\"><img src=\"https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white\" target=\"_blank\"></a> \n",
+
     "</p>\n",
     "\n",
     "## Objetivos\n",
