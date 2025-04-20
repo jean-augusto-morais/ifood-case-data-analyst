@@ -9,23 +9,14 @@ Sales channels include **physical stores**, **catalogs**, and the **company’s 
 
 Despite solid financial performance over the past three years, future profit growth projections are not encouraging. To address this, the company is exploring several strategic initiatives — one of which focuses on **improving the performance of marketing campaigns**.
 
----
-
-![pairplot](images/pairplot_clusters.png)
+![pairplot](images/grafico1.png)
 
 "**Data Science Project. Based on the selection process for the Data Analyst position at iFood, available [in this repository](https://github.com/ifood/ifood-data-business-analyst-test).**.\n",
     "\n",
     "Complete case description [here](case/README.md).\n",
     "\n",
 
-    "</p>\n",
-    "\n",
-    "## Objetivos\n",
-    "\n",
-
-    "\n",
-.\n",
-    "\n",
+ 
 ## **Detailed Objectives:**
 
 - Conduct a robust exploratory data analysis.
