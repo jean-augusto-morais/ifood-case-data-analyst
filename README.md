@@ -1,13 +1,17 @@
+[![author](https://img.shields.io/badge/Author-Jean%20Augusto-red.svg)](https://www.linkedin.com/in/jean-augusto-morais/)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 
-    "[![author](https://img.shields.io/badge/Author-jean&nbsp;augusto-red.svg)](https://www.linkedin.com/in/jean-augusto-morais/)\n",
-    "[![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)\n",
-    "\n",
-    "# Case iFood - Data analyst\n",
-    "\n",
-    "A well-established food retail company serves nearly one million consumers annually, offering products in five main categories (wines, meats, exotic fruits, specially prepared fish, and sweets), available in both regular and premium versions. Sales are made through physical stores, catalogs, and the company’s website. Although the company has seen solid financial results over the past three years, future profit growth projections are not promising. To address this, several strategic initiatives are being considered, including enhancing marketing campaign performance.\n",
-    "\n",
-    "![pairplot](images/pairplot_clusters.png)\n",
-    "\n",
+# 📊 Case iFood - Data Analyst
+
+A well-established food retail company serves nearly one million consumers annually, offering products in five main categories — **wines**, **meats**, **exotic fruits**, **specially prepared fish**, and **sweets** — available in both regular and premium versions.  
+
+Sales channels include **physical stores**, **catalogs**, and the **company’s website**.  
+
+Despite solid financial performance over the past three years, future profit growth projections are not encouraging. To address this, the company is exploring several strategic initiatives — one of which focuses on **improving the performance of marketing campaigns**.
+
+---
+
+![pairplot](images/pairplot_clusters.png)
 
 "**Data Science Project. Based on the selection process for the Data Analyst position at iFood, available [in this repository](https://github.com/ifood/ifood-data-business-analyst-test).**.\n",
     "\n",
